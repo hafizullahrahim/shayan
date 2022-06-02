@@ -183,7 +183,7 @@ footer .foot-1 ul {
     background-color: rgb(235, 235, 235);
     max-width: 100%;
     height: auto;
-    padding: 11px;
+    padding: 13px;
     position: absolute;
     text-align: center;
     justify-content: flex-start center;
@@ -200,7 +200,7 @@ footer .foot-2 ul {
     display: flex;
     background-color: rgb(235, 235, 235);
     max-width: 100%;
-    padding: 7px;
+    padding: 13px;
     display: flex;
     position: absolute;
     border-top: 1px solid rgb(172, 164, 164);
